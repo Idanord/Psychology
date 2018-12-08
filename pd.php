@@ -1,0 +1,4 @@
+<?php include 'header.php'?>
+    <p>For as long as humans have been on this planet there have been psychological disorders. There are many kinds from anxiety disorders to full blowen paranoid schizophrenia. Each disorder has a a diferent perspective. For example if you haave schizophreinia and are not medicated, people may have a perception of you that is less than positive. They may view you as dangerous.</p>
+    <p>On the other hand if you have anxiety you may be viewed as a loner but not someone who is dangerous. Everyone mostlikely knows someone in their own life that battels with some form of a psychological disorder. Someone may be battling a disorder all their own. But that isn't to be taken as you are insane as insanity is a legal term and not a psychological term.</p>
+<?php include 'footer.php'?>
