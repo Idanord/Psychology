@@ -44,20 +44,45 @@ switch(THIS_PAGE)
         $logo = "fa-home";
         $PageID = "Indroduction";
     break;
-    case "AIA.php":
-        $title = "AIA";
-        $logo = "fa-users";
-        $PageID = "AIA";
+    case "humanDiversity.php":
+        $title = "HumanDiversity";
+        $PageID = "Human Diversity";
     break;
-    case "contact.php":
-        $title = "Contact";
-        $logo = "fa-pencil-square";
-        $PageID = "Contact";
+    case "biological.php":
+        $title = "Biological Behavior";
+        $PageID = "Psychological Biological Behavior";
     break;
-    case "ux.php":
-        $title = "UX";
-        $PageID = "Google UX";
-        $logo = "fa-file";
+    case "consiousness.php":
+        $title = "Consciousness";
+        $PageID = "Conciousness";
+    break;
+    case "sp.php":
+        $title = "Sensation & Perception";
+        $PageID = "Sensation & Perception";
+    break;
+    case "memory.php":
+        $title = "Memory";
+        $PageID = "Memory";
+    break;
+    case "personality.php":
+        $title = "Personality";
+        $PageID = "Personality";
+    break;
+    case "abilities.php":
+        $title = "Abilities";
+        $PageID = "Cognition & Mental Abilities";
+    break;
+    case "shp.php":
+        $title = "Stress & Health";
+        $PageID = "Stress & Health";
+    break;
+    case "pd.php":
+        $title = "Psychological Disorders";
+        $PageID = "Psychological Disorders";
+    break;
+    case "social.php":
+        $title = "Social";
+        $PageID = "Social Psychology";
     break;
     default:
         $title = THIS_PAGE;

@@ -1,13 +1,4 @@
-        <?php include 'header.php'?>
-        <h3>Name of page goes here</h3>
-        <p>Clever stuff goes here</p>
-        <p>Clever stuff goes here</p>
-        <p>Clever stuff goes here</p>
-        <p>Clever stuff goes here</p>
-        <p>Clever stuff goes here</p>
-        <p>Clever stuff goes here</p>
-        <p>Clever stuff goes here</p>
-        <p>Clever stuff goes here</p>
-        <p>Clever stuff goes here</p>
-        <p>Clever stuff goes here</p>
-        <?php include 'footer.php'?>
+<?php include 'includes/header.php'?>
+    <p>Sensory and perception, simply put sensory is they experiance of stimulation to where perception is how we interpret the information and give that meaning. Much like social cues, people will take action baised on how they see something or feel about something. The way that we get to sense something is pretty simple. We can feel something, smell something, tast something, or even hear something. Though there are other ways that we sense something.</p>
+    <p>We can sense something simply by taking social cues from someone. Or seeing how someone is holding themselves. This would be a way for us as humans to sense and percieve a situation. We can see if someone is not feeling well just by looking at how they are acting. Along with that we may be able to percieve that this person wants to be left alone. That is as simple as senory and perception works hand in hand.</p>
+<?php include 'includes/footer.php'?>

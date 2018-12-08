@@ -1,13 +1,4 @@
-        <?php include 'header.php'?>
-        <h3>Name of page goes here</h3>
-        <p>Clever stuff goes here</p>
-        <p>Clever stuff goes here</p>
-        <p>Clever stuff goes here</p>
-        <p>Clever stuff goes here</p>
-        <p>Clever stuff goes here</p>
-        <p>Clever stuff goes here</p>
-        <p>Clever stuff goes here</p>
-        <p>Clever stuff goes here</p>
-        <p>Clever stuff goes here</p>
-        <p>Clever stuff goes here</p>
-        <?php include 'footer.php'?>
+<?php include 'includes/header.php'?>
+    <p>Social psychology, what is that and how does it effect each person? Simply put social psychology is the study of peoples thoughts and feelings in relation to what influences they ahve in their day to day lifes. Take a person who jumps into a situation where someone is hurt and tries to help them. The other people around in that situation would mostlikely, not all of them, take the social cue to stand around and see what is happening but not try to help.</p>
+    <p>Others in that situation would probaly take a cue and walk or drive past the proplem not offering to help. This type of situation is only one way people act with their attitudes. They may be others who take the influance going on around them and act to help as well. Yet another example of this would be going to a bar. In that setting many people would see this as a social influance to drink and some to continue to drink. These two examples are how being in different situations can influance a person.</p>
+<?php include 'includes/footer.php'?>
